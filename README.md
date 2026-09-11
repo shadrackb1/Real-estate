@@ -1,10 +1,8 @@
-﻿# Real estate
+# HomeQuest Realty
 
-HomeQuest Realty | Find Your Dream Home
+<img src="./assets/header.svg" width="100%" alt="HomeQuest Realty" />
 
-## Stack
-
-react Â· vite Â· typescript Â· firebase Â· node
+Property listings and dream-home search.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript Â· firebase Â· node
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
