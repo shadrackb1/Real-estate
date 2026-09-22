@@ -1,8 +1,12 @@
 # HomeQuest Realty
 
-<img src="./assets/header.svg" width="100%" alt="HomeQuest Realty" />
+Property listings demo.
 
-Property listings and dream-home search.
+**Status:** shipped demo
+
+## Stack
+
+React, TypeScript, Vite
 
 ## Run locally
 
